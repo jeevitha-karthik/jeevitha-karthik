@@ -9,9 +9,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Aspiring Java Full Stack Developer
+- Aspiring Mern Full Stack Developer
 - 🎓 Computer Science Student
-- ☕ Currently learning Java Full Stack Development
+- ☕ Currently learning Mern Full Stack Development
 - 🌱 Passionate about coding and continuous learning
 - 🚀 Building real-world projects to improve my skills
 - 🛠️ Tech Stack: Java | Spring Boot | HTML | CSS | JavaScript | MySQL | Git | GitHub
@@ -19,7 +19,7 @@
 
 
 ## 🧠 My Focus Areas
-- java Full stack Development
+- Mern Full stack Development
 
 
 ## 📊 GitHub Stats & Trophies
