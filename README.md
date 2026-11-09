@@ -9,13 +9,25 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Aspiring Mern Full Stack Developer
-- 🎓 Computer Science Student
-- ☕ Currently learning Mern Full Stack Development
-- 🌱 Passionate about coding and continuous learning
-- 🚀 Building real-world projects to improve my skills
-- 🛠️ Tech Stack: Java | Spring Boot | HTML | CSS | JavaScript | MySQL | Git | GitHub
-- 🎯 Goal: To become a skilled Software Developer
+### Aspiring MERN Stack Developer
+
+🎓 Computer Science Student
+
+🌱 Currently Learning:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+💻 Interested in Full Stack Development
+
+🚀 Building projects and improving my coding skills.
+
+🎯 Goal: Become a Professional MERN Stack Developer.
 
 
 ## 🧠 My Focus Areas
